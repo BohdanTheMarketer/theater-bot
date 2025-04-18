@@ -174,7 +174,7 @@ CONFIG = {
     {
         "url": "https://ft.org.ua/performances/mama-skazala-ni",
         "selector": ".performanceHero__wrapper",
-        "name": "Мама сказала НІ""
+        "name": "Мама сказала НІ"
     }
     ],
     "telegram_token": "7942085933:AAHG6aqaA7e0yJL61N2HFNDbLxo3a-i9ObA",  # Токен бота
