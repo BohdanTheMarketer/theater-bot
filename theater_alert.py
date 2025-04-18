@@ -45,7 +45,137 @@ CONFIG = {
             "url": "https://ft.org.ua/performances/tartiuf",
             "selector": ".performanceHero__wrapper",
             "name": "tartiuf"
-        }
+        },
+        {
+        "url": "https://ft.org.ua/performances/intermezzo",
+        "selector": ".performanceHero__wrapper",
+        "name": "Intermezzo"
+    },
+    {
+        "url": "https://ft.org.ua/performances/morituri-te-salutant",
+        "selector": ".performanceHero__wrapper",
+        "name": "Morituri te salutant"
+    },
+    {
+        "url": "https://ft.org.ua/performances/avantyuryst",
+        "selector": ".performanceHero__wrapper",
+        "name": "Авантюрист"
+    },
+    {
+        "url": "https://ft.org.ua/performances/arlezjanka",
+        "selector": ".performanceHero__wrapper",
+        "name": "Арлезіанка"
+    },
+    {
+        "url": "https://ft.org.ua/performances/beztalanna",
+        "selector": ".performanceHero__wrapper",
+        "name": "Безталанна"
+    },
+    {
+        "url": "https://ft.org.ua/performances/buna",
+        "selector": ".performanceHero__wrapper",
+        "name": "Буна"
+    },
+    {
+        "url": "https://ft.org.ua/performances/vesillya-figaro",
+        "selector": ".performanceHero__wrapper",
+        "name": "Весілля Фігаро"
+    },
+    {
+        "url": "https://ft.org.ua/performances/vizyt",
+        "selector": ".performanceHero__wrapper",
+        "name": "Візит"
+    },
+    {
+        "url": "https://ft.org.ua/performances/vsi-moyi-syny",
+        "selector": ".performanceHero__wrapper",
+        "name": "Всі мої сини"
+    },
+    {
+        "url": "https://ft.org.ua/performances/grek-zorba",
+        "selector": ".performanceHero__wrapper",
+        "name": "Грек Зорба"
+    },
+    {
+        "url": "https://ft.org.ua/performances/dzhelsomino-v-krayini-brekhuniv",
+        "selector": ".performanceHero__wrapper",
+        "name": "Джельсоміно в країні брехунів"
+    },
+    {
+        "url": "https://ft.org.ua/performances/zhyteyske-more",
+        "selector": ".performanceHero__wrapper",
+        "name": "Житейське море"
+    },
+    {
+        "url": "https://ft.org.ua/performances/zagnanyj-kin",
+        "selector": ".performanceHero__wrapper",
+        "name": "Загнаний кінь"
+    },
+    {
+        "url": "https://ft.org.ua/performances/zemlya",
+        "selector": ".performanceHero__wrapper",
+        "name": "Земля"
+    },
+    {
+        "url": "https://ft.org.ua/performances/kajdasheva-simya",
+        "selector": ".performanceHero__wrapper",
+        "name": "Кайдашева сім'я"
+    },
+    {
+        "url": "https://ft.org.ua/performances/kaligula",
+        "selector": ".performanceHero__wrapper",
+        "name": "Калігула"
+    },
+    {
+        "url": "https://ft.org.ua/performances/kar-yera-arturo-ui",
+        "selector": ".performanceHero__wrapper",
+        "name": "Кар'єра Артуро Уї"
+    },
+    {
+        "url": "https://ft.org.ua/performances/kasandra",
+        "selector": ".performanceHero__wrapper",
+        "name": "Кассандра"
+    },
+    {
+        "url": "https://ft.org.ua/performances/komediya-na-rujinah",
+        "selector": ".performanceHero__wrapper",
+        "name": "Комедія на руїнах"
+    },
+    {
+        "url": "https://ft.org.ua/performances/konotopska-vidma",
+        "selector": ".performanceHero__wrapper",
+        "name": "Конотопська відьма"
+    },
+    {
+        "url": "https://ft.org.ua/performances/koriolan",
+        "selector": ".performanceHero__wrapper",
+        "name": "Коріолан"
+    },
+    {
+        "url": "https://ft.org.ua/performances/krum",
+        "selector": ".performanceHero__wrapper",
+        "name": "Крум"
+    },
+    {
+        "url": "https://ft.org.ua/performances/lymerivna",
+        "selector": ".performanceHero__wrapper",
+        "name": "Лимерівна"
+    },
+    {
+        "url": "https://ft.org.ua/performances/lyuks-dlya-inozemtsiv",
+        "selector": ".performanceHero__wrapper",
+        "name": "Люкс для іноземців"
+    },
+    {
+        "url": "https://ft.org.ua/performances/makbet",
+        "selector": ".performanceHero__wrapper",
+        "name": "Макбет"
+    },
+    {
+        "url": "https://ft.org.ua/performances/mama-skazala-ni",
+        "selector": ".performanceHero__wrapper",
+        "name": "Мама сказала НІ""
+    }
     ],
     "telegram_token": "7942085933:AAHG6aqaA7e0yJL61N2HFNDbLxo3a-i9ObA",  # Токен бота
     "chat_id": "397563510",  # ID чата для уведомлений
