@@ -47,8 +47,8 @@ CONFIG = {
             "name": "tartiuf"
         }
     ],
-    "telegram_token": os.getenv("7942085933:AAHG6aqaA7e0yJL61N2HFNDbLxo3a-i9ObA"),  # Токен бота
-    "chat_id": os.getenv("397563510"),  # ID чата для уведомлений
+    "telegram_token": "7942085933:AAHG6aqaA7e0yJL61N2HFNDbLxo3a-i9ObA",  # Токен бота
+    "chat_id": "397563510",  # ID чата для уведомлений
     "check_interval": 300,  # Интервал проверки в секундах (5 минут)
     "state_file": "page_state.json"  # Файл для хранения состояния
 }
